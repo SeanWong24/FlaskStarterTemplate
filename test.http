@@ -1,0 +1,5 @@
+GET  http://localhost:5000/api/person
+###
+POST http://localhost:5000/api/person/add?name=Tom&age=20
+###
+DELETE http://localhost:5000/api/person/delete?name=Tom
