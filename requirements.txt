@@ -1,4 +1,4 @@
 pipreqs==0.4.9
-Flask==1.1.1
+Flask==2.3.2
 flask_marshmallow==0.10.1
 flask_sqlalchemy==2.4.1
